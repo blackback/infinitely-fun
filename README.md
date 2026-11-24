@@ -5,7 +5,9 @@ A responsive, Bored.com-inspired discovery portal with original branding and con
 ## Features
 - Random "I'm bored" recommendation picker
 - Search and category filters
-- 27 curated internet discoveries, games, visual toys, brain teasers and learning links
+- 27 curated recommendations with practical, expanded descriptions and usage tips
+- Original Field Guide with hand-picked routes for quick breaks, creative play, learning, calm and puzzles
+- About, Privacy, and Terms pages
 - Save favorites locally in the visitor's browser
 - Responsive desktop and mobile layout
 - No account, backend, build step, or tracking required
@@ -25,4 +27,5 @@ The first publication can take a few minutes.
 - Privacy and Terms pages explain local browser storage, Google Fonts, and third-party destinations.
 - The site does not currently include analytics, advertising trackers, accounts, or a backend.
 - Review external destinations periodically; their content and policies can change.
-- Configure a real public contact method before commercial launch.
+- Public contact: midnightarchive222@gmail.com
+- The sitemap includes the homepage and key editorial/policy pages.
