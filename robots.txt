@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blackback.github.io/infinitely-fun/sitemap.xml
