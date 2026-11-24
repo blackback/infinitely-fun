@@ -6,7 +6,10 @@ A responsive, Bored.com-inspired discovery portal with original branding and con
 - Random "I'm bored" recommendation picker
 - Search and category filters
 - 27 curated recommendations with practical, expanded descriptions and usage tips
-- Original Field Guide with hand-picked routes for quick breaks, creative play, learning, calm, puzzles and phone browsing\n- Transparent link-review page recording the 25 November 2026 check and distinguishing crawler limitations from broken links\n- Shareable search/category URLs and native share / copy-link action\n- Improved mobile search, touch targets, keyboard controls and reduced-motion support
+- Original Field Guide with hand-picked routes for quick breaks, creative play, learning, calm, puzzles and phone browsing
+- Transparent link-review page recording the 25 November 2026 check and distinguishing crawler limitations from broken links
+- Shareable search/category URLs and native share / copy-link action
+- Improved mobile search, touch targets, keyboard controls and reduced-motion support
 - About, Privacy, and Terms pages
 - Save favorites locally in the visitor's browser
 - Responsive desktop and mobile layout
